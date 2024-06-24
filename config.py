@@ -1,7 +1,7 @@
-api_id = 28660719
-api_hash = "34ade52147ebcaf4bc0b88aa3dfc7e1a"
-bot_token = "6398121599:AAFeTb5Dhj5e5lJh_ZB8st3SjfiKbrLRYEQ"
-auth_users = "6723621303"
+api_id = 22114233
+api_hash = "d7abcec5c967414fadb1d438fa05ebea"
+bot_token = "7260371096:AAGO_SFqKssldaRopGC150qV9XyQwcLOZNQ"
+auth_users = "1403488629"
 sudo_users = [int(num) for num in auth_users.split(",")]
-osowner_users = "6723621303"
+osowner_users = "1403488629"
 owner_users = [int(num) for num in osowner_users.split(",")]
